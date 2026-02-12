@@ -1,0 +1,112 @@
+        
+
+
+        body {
+            font-family: "Courier New", Courier, monospace;
+            background-color: #0c0e0ff1;
+        }
+
+        header {
+            background-color: #0c0e0ff1;
+            color: #a81111;
+            padding: 20px;
+            font-family:"Garamond", serif;
+            font-size: 16px;
+            text-align: center;
+        }
+            
+        nav {
+            font-family: "lucida console", Courier, monospace;
+            padding: 20px;
+            text-align: center;
+            font-weight: bold;
+            font-style: oblique;
+        }
+           
+
+        a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        form {
+            max-width: 600px; 
+            margin: 20px auto; 
+            padding: 20px; 
+            border-radius: 5px;
+            text-align: center;
+            color:#fff;
+        }
+
+        #form-title {
+            text-align: center;
+            color:rgba(9, 16, 9, 0.749);
+            margin: 0 25px 25px 0px;
+        }
+
+        input,
+        select,
+        textarea {
+        width: 30%;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+        background-color: #fcfcfcd0;
+        }
+
+        button {
+        background-color: #0c0e0ff1;
+        padding: 10px 15px;
+        border: lightcoral solid;
+        border-radius: 5px;
+        cursor: pointer;
+        color: #bd4805;
+        font-weight: bold;
+        }
+
+        .book-btn {
+        width: 100%;
+        }
+
+
+        table {
+        width: 110%;
+        border-collapse: collapse;
+        margin-top: 50px;
+        }
+
+        th,
+        td {
+        border: 1px dashed #ddd;
+        padding: 10px;
+        text-align: center;
+        }
+
+        th {
+        background-color: #000000;
+        color: #fff;
+        }
+
+        tr {
+        background-color: #fcfcfcd0;
+        }
+
+        tr:hover {
+        background-color: #dadadad0;
+        }
+
+        
+        .edit-btn {
+        background-color: #ebc314;
+        }
+
+        footer {
+            background-color: #0c0e0ff1;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        
