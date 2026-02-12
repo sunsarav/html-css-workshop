@@ -29,6 +29,11 @@
             text-decoration: none;
             margin: 0 15px;
         }
+        h3 {
+            color: #fff;
+            text-decoration: underline;
+            text-align:center;          
+        }
 
         form {
             max-width: 600px; 
@@ -88,14 +93,17 @@
         th {
         background-color: #000000;
         color: #fff;
-        }
+        }   
 
         tr {
         background-color: #fcfcfcd0;
+        color: #a81111;
+        font-weight: bold;
         }
 
         tr:hover {
         background-color: #dadadad0;
+        color:blue
         }
 
         
@@ -108,5 +116,6 @@
             color: #fff;
             padding: 20px;
             text-align: center;
+            font-weight: bold;
         }
         
