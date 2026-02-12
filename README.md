@@ -1,4 +1,4 @@
-# MY Webpage Project
+# My webpage Project
 
 ## Project Overview
 This project is a simple cafeteria webpage created using HTML and CSS.  
